@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/9272812558533493224133029814971276460376_5/205/80913/0x00-shell_basics ls -d $PWD/0-current_working_directory
+pwd
