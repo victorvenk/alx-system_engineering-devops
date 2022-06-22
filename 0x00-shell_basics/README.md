@@ -1,1 +1,1 @@
-Hello developer this is the list directory that requires your coding and easy setup. Use const ListItem as your variable name.Thanks
+Hello developer this is the list directory that requires your coding and easy setup. Use const ListItem as your variable name. And endeavor to go from place to place n search of other variables expected to use in your development. By so doing you will be able to learn from your mentors. Thanks
