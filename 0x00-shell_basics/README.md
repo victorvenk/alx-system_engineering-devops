@@ -1,1 +1,1 @@
-This is the repo readme
+This the directory and file readme
